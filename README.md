@@ -20,3 +20,7 @@ Your data will store in local storage, and upon refreshing or returning, your da
 ## License
 MIT
 
+## Deployed
+https://abisinchan.github.io/symmetrical-meme/
+## Repo
+https://github.com/abisinchan/symmetrical-meme.git
